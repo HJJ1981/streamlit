@@ -2,11 +2,11 @@ import streamlit as st
 from datetime import datetime
 
 # Title of the dashboard
-st.title("Simple Interest Calculator for Savings Accounts")
+st.title("Prevailing Interest Calculator for High Yield Savings Plus Accounts")
 
 # Description
 st.write("""
-This calculator estimates the simple interest earned based on balances in a savings account over a specified period of time. 
+This calculator estimates the interest earned based on deposit balance amount in a High Yield Savings Plus Account over a specified period of time. 
 Interest rates are as follows:
 - **First $50,000**: 1.5% p.a.
 - **Next $25,000**: 1.6% p.a.
